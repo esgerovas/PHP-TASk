@@ -45,7 +45,6 @@ if (isset($_POST['submit'])) {
 		}
 	}
 }
-
 ?>
 <form action="" method="post">
 	<input type="number" name="num01">

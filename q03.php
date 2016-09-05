@@ -24,7 +24,6 @@ if (isset($_POST['submit'])) {
 		$x = $_POST["num01"];
 		$y = $_POST["num02"];
 		$operator = $_POST["radio"];
-		
 		switch ($operator) {
 			case '+':
 				$z = $x+$y;
