@@ -15,7 +15,6 @@ class a {
 class b extends a {
 
 }
-
 $yaz = new b();
 echo $yaz->b();
 
