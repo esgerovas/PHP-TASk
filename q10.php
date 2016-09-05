@@ -10,7 +10,6 @@
            echo "salam!";
        }
     }
-
     a::greet();
 
 ?>
