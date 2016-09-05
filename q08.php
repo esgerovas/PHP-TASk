@@ -1,6 +1,5 @@
 <?php 
 //1.Ededin faktorialini hesablayan Class yazin//
-
 class Factorial{
     public $number;
     public function __construct($num){

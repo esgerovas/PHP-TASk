@@ -1,6 +1,5 @@
 <?php 
 //1.Ededin faktorialini hesablayan Class yazin//
-
 class Factorial{
     public $number;
     public function __construct($num){
@@ -14,7 +13,6 @@ class Factorial{
     	return $fac;
     }
 }
-
 $factorial= new Factorial(4);
 echo $factorial->factorial();
 
